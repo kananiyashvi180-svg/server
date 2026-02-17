@@ -2,6 +2,14 @@
   "name": "render",
   "version": "1.0.0",
   "description": "This is a server for API with crud operation.",
+  "homepage": "https://github.com/kananiyashvi180-svg/server#readme",
+  "bugs": {
+    "url": "https://github.com/kananiyashvi180-svg/server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kananiyashvi180-svg/server.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
